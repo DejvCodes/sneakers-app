@@ -25,8 +25,6 @@ about their favorite footwear, featuring smooth animations and a responsive desi
     • `npm install` <br>
 3. Start the development server: <br>
     • `npm run dev` <br>
-4. Build for production: <br>
-    • `npm run build` <br>
 
 ## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=react,typescript,vite,tailwind)](https://skillicons.dev)
